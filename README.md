@@ -5,7 +5,7 @@
 	Welcome to the New Game Of Life Playground!
 	Here you can play different versions of the famous Conway's game
 
-##Four different themes are provided in our game: 
+## Four different themes are provided in our game: 
 ### Rainbow 
 the color of one cell is directly and only determined by its “age”. There is a choice between three types of color effect: yellow to red, cyan to green and magenta to blue - from young to old cells. The colors are interesting as you can observe easily to what extent a cell survives and grows “older”. Most of the time, if a cell is old enough to reach the maximum age, it is part of a stable pattern.
 ### Corona
@@ -15,7 +15,7 @@ the living cell is black color and the dead cell is white. It is the very classi
 ### Immigration
 you can choose the color of each cell with no restriction thanks to a Colorchooser. The particular rule is that every new-born cell must be of the average color of its three “parents”. The blending of colors when launching the game is pretty interesting and could modelize the blending of genes intra species.
 
-##Special functionality: there is a repository of special patterns ready to be initialized on the playground - each one of them can generate interesting shapes and behaviors!
+## Special functionality: there is a repository of special patterns ready to be initialized on the playground - each one of them can generate interesting shapes and behaviors!
 
 # Content of the file
 	
