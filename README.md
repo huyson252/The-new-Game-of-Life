@@ -20,15 +20,15 @@ you can choose the color of each cell with no restriction thanks to a Colorchoos
 # Content of the file
 	
 java class:	
-	/Cell.java - define the cell (a JButton) and its state
-	/Corona.java - IHM class for the corona mode, is linked to the Menu, can open frame Rules and pattern
-	/Immigration -IHM class for the immigration mode, is linked to the Menu, can open frame Rule and Pattern
-	/Menu.java - IHM class for the menu, is linked to the three modes, can also open frame Rule
-	/Menutest.java - Main class to be executed, opens the frame Menu
-	/Pattern - IHM class which can be opened in the three modes, linked to playground (is used to insert pattern in the grill)
-	/Playground.java - use directly Cell to create a table of JButton Cell, form the grill on which the player will play, all three modes depend on it.
-	/Rainbow - IHM class for the Rainbow mode, is linked to the Menu, can open frame Rules and pattern
-	/Rules - IHm class which can be opened from the three modes and from Menu, describe the rules in the three modes
+	- /Cell.java - define the cell (a JButton) and its state
+	- /Corona.java - IHM class for the corona mode, is linked to the Menu, can open frame Rules and pattern
+	- /Immigration -IHM class for the immigration mode, is linked to the Menu, can open frame Rule and Pattern
+	- /Menu.java - IHM class for the menu, is linked to the three modes, can also open frame Rule
+	- /Menutest.java - Main class to be executed, opens the frame Menu
+	- /Pattern - IHM class which can be opened in the three modes, linked to playground (is used to insert pattern in the grill)
+	- /Playground.java - use directly Cell to create a table of JButton Cell, form the grill on which the player will play, all three modes depend on it.
+	- /Rainbow - IHM class for the Rainbow mode, is linked to the Menu, can open frame Rules and pattern
+	- /Rules - IHm class which can be opened from the three modes and from Menu, describe the rules in the three modes
 
 images used:
 	/backgroundacceuil.jpg - background Image Panel for Menu
