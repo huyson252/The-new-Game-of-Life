@@ -20,43 +20,43 @@ you can choose the color of each cell with no restriction thanks to a Colorchoos
 # Content of the file
 	
 java class:	
-	- /Cell.java - define the cell (a JButton) and its state
-	- /Corona.java - IHM class for the corona mode, is linked to the Menu, can open frame Rules and pattern
-	- /Immigration -IHM class for the immigration mode, is linked to the Menu, can open frame Rule and Pattern
-	- /Menu.java - IHM class for the menu, is linked to the three modes, can also open frame Rule
-	- /Menutest.java - Main class to be executed, opens the frame Menu
-	- /Pattern - IHM class which can be opened in the three modes, linked to playground (is used to insert pattern in the grill)
-	- /Playground.java - use directly Cell to create a table of JButton Cell, form the grill on which the player will play, all three modes depend on it.
-	- /Rainbow - IHM class for the Rainbow mode, is linked to the Menu, can open frame Rules and pattern
-	- /Rules - IHm class which can be opened from the three modes and from Menu, describe the rules in the three modes
+- /Cell.java - define the cell (a JButton) and its state
+- /Corona.java - IHM class for the corona mode, is linked to the Menu, can open frame Rules and pattern
+- /Immigration -IHM class for the immigration mode, is linked to the Menu, can open frame Rule and Pattern
+- /Menu.java - IHM class for the menu, is linked to the three modes, can also open frame Rule
+- /Menutest.java - Main class to be executed, opens the frame Menu
+- /Pattern - IHM class which can be opened in the three modes, linked to playground (is used to insert pattern in the grill)
+- /Playground.java - use directly Cell to create a table of JButton Cell, form the grill on which the player will play, all three modes depend on it.
+- /Rainbow - IHM class for the Rainbow mode, is linked to the Menu, can open frame Rules and pattern
+- /Rules - IHm class which can be opened from the three modes and from Menu, describe the rules in the three modes
 
 images used:
-	/backgroundacceuil.jpg - background Image Panel for Menu
-	/backgroundcorona.png - background Image Panel for Corona mode 
-	/bgimmigration.jpg - background Image Panel for immigration mode
-	/bgrainbow.jpg - background Image Panel for rainbow mode
-	/bohommemort.png - image used for a certain time for the purpose of an animation in corona mode (original drawing)
-	/bonhommevivant.png - image used in corona mode (JButton + color of a cell) original drawing
-	/buttonclearcorona.png - used as a button in corona mode to clear playground 
-	/buttonclearimm.png - used as a button in immigration mode to clear playground 
-	/buttonclearrainbow.png - used as a button in rainbow mode to clear playground 
-	/buttonhomecorona.png -used as a button in corona mode to return to Menu
-	/buttonhomeimm.png -used as a button in immigration mode to return to Menu
-	/buttonhomepurple.png -used as a button in rainbow mode to return to Menu
-	/buttonpatternimm.jpg - used as a button in immigration mode to open pattern frame
-	/buttonpausecorona.png - used as a button in corona mode to pause the ongoing game
-	/buttonpauseimm.jpg -used as a button in immigration mode to pause the ongoing game
-	/buttonpausered.png -used as a button in rainbow mode to pause the ongoing game
-	/buttonplaycorona.png -used as a button in corona mode to start the game
-	/buttonplayimm.png -used as a button in immigration mode to start the game
-	/buttonplayorange.png -used as a button in rainbow mode to start the game
-	/buttonrulesimm.jpg - used as a button in immigration mode to open rule frame
-	/caseblockedcorona.png -image used in corona mode (JButton + color of a cell) original drawing
-	/corona.png - image used in corona mode (JButton + color of a cell) and Menu to access corona mode (original drawing)
-	/logoimmigration.png - used in Menu as a jbutton to access immigration mode (original drawing)
-	/next.png -used as a button to access page 2 of rules
-	/next1.png -used as a button to access page 2 of pattern
-	/nextc.png -used as a button to access page 3 of rules
+- /backgroundacceuil.jpg - background Image Panel for Menu
+- /backgroundcorona.png - background Image Panel for Corona mode 
+- /bgimmigration.jpg - background Image Panel for immigration mode
+- /bgrainbow.jpg - background Image Panel for rainbow mode
+- /bohommemort.png - image used for a certain time for the purpose of an animation in corona mode (original drawing)
+- /bonhommevivant.png - image used in corona mode (JButton + color of a cell) original drawing
+- /buttonclearcorona.png - used as a button in corona mode to clear playground 
+- /buttonclearimm.png - used as a button in immigration mode to clear playground 
+- /buttonclearrainbow.png - used as a button in rainbow mode to clear playground 
+- /buttonhomecorona.png -used as a button in corona mode to return to Menu
+- /buttonhomeimm.png -used as a button in immigration mode to return to Menu
+- /buttonhomepurple.png -used as a button in rainbow mode to return to Menu
+- /buttonpatternimm.jpg - used as a button in immigration mode to open pattern frame
+- /buttonpausecorona.png - used as a button in corona mode to pause the ongoing game
+- /buttonpauseimm.jpg -used as a button in immigration mode to pause the ongoing game
+- /buttonpausered.png -used as a button in rainbow mode to pause the ongoing game
+- /buttonplaycorona.png -used as a button in corona mode to start the game
+- /buttonplayimm.png -used as a button in immigration mode to start the game
+- /buttonplayorange.png -used as a button in rainbow mode to start the game
+- /buttonrulesimm.jpg - used as a button in immigration mode to open rule frame
+- /caseblockedcorona.png -image used in corona mode (JButton + color of a cell) original drawing
+- /corona.png - image used in corona mode (JButton + color of a cell) and Menu to access corona mode (original drawing)
+- /logoimmigration.png - used in Menu as a jbutton to access immigration mode (original drawing)
+- /next.png -used as a button to access page 2 of rules
+- /next1.png -used as a button to access page 2 of pattern
+- /nextc.png -used as a button to access page 3 of rules
 	/nextr.png -used as a button to access page 4 of rules
 	/nexti.png -used as a button to access page 5 of rules
 	/pannelcorona.png - background ImagePanel for pannelcommand corona
